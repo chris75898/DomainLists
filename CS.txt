@@ -1,23 +1,35 @@
-youtube\.com
-.*\.youtube\.com
+youtube.com
+www.youtube.com
 
-facebook\.com
-.*\.facebook\.com
+facebook.com
+www.facebook.com
 
-instagram\.com
-.*\.instagram\.com
+instagram.com
+www.instagram.com
 
-tiktok\.com
-.*\.tiktok\.com
+tiktok.com
+www.tiktok.com
 
-digg\.com
-.*\.digg\.com
+digg.com
+www.digg.com
 
-twitter\.com
-.*\.twitter\.com
+twitter.com
+www.twitter.com
 
-reddit\.com
-.*\.reddit\.com
+reddit.com
+www.reddit.com
 
-snapchat\.com
-.*\.snapchat\.com
+snapchat.com
+www.snapchat.net
+
+max.com
+www.max.com
+
+netflix.com
+www.netflix.com
+
+hulu.com
+www.hulu.com
+
+disneyplus.com
+www.disneyplus.com
